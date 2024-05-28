@@ -1,12 +1,12 @@
 import React from 'react'
 
-const TransformationPage = () => {
+const TransformationsPage = () => {
   return (
-    <div>TransformationPage</div>
+    <div>TransformationsPage</div>
   )
 }
 
-export default TransformationPage
+export default TransformationsPage
 
 // localhost:3001/transformation
 // localhost:3001/transformation/[id]
